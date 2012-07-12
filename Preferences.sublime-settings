@@ -1,5 +1,7 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/TwilightCustom.tmTheme",
+	"font_size": 11.0,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
